@@ -162,8 +162,8 @@ If no neighborhood matches the filters, show:
 
 ## 👨‍💻 Developer Info
 
-Made with ❤️ by **[Your Name]**  
-Third Year CSE Student  
+Made with ❤️ by **[Biswajit kumar pradhan]**  
+Btech CSE Student  
 Focused on solving practical problems with meaningful tech.
 
 ---
